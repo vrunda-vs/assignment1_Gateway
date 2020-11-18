@@ -1,0 +1,103 @@
+#header{
+	background-color:#000;
+	height:auto;
+	margin:0;
+	
+}
+#logoimg{
+	height:100px;
+	width:150px;
+	border-radius:50%;
+}
+
+#navbar{
+	
+	margin-top:10px;
+	margin-bottom:0px;
+	
+}
+#header li a{
+	color:#fff;
+	text-decoration:none;	
+}
+#adds{
+	color:#fff;
+}
+#footer{
+	background-color:#000;
+	height:auto;
+	padding-left:25px;
+	padding-right:15px;
+	padding-top:15px;
+	margin-top:5px;
+	text-align:left-side;
+	color:#fff;
+
+}
+.fa-custom{
+	color:#ffffff;
+	margin-right:5px;
+	margin-top:2px;
+}
+#prv{
+	text-decoration:none;
+	color:#fff;
+}
+#footerbottoms{
+	background-color:#800;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+.banne{
+	text-align:left;'
+	color:#fff;
+}
+.banner{
+	color:#fff;
+	margin:5px;
+	margin-left:10px;
+}
+.service{
+	height:auto;
+	min-height:230px;
+	margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+ 
+}
+.service1{
+	height:auto;
+	margin-top:8px;
+	text-align:center;
+}
+.clogo{
+	width:  100%;
+    height: 50px;
+	margin-bottom:20px;
+	margin-top:20px;
+	
+	
+}
+.sercolor{
+	background-color:#000;
+	color:#fff;
+	padding:3px;
+}
+.imgsize{
+	
+    width:  100%;
+    height: 120px;
+  
+}
+.btn{
+	background-color:#000;
+	color:#fff;
+}
+.cnt{
+	color:#fff;
+}
